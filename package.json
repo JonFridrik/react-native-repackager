@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": ":",
-    "postinstall": "git apply add_custom_extensions_to_react_packager.patch"
+    "postinstall": "git apply 0001-Adding-support-for-custom-extensions.patch"
   
   },
   "repository": {
